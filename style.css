@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+/*Import fonts from fonts.css files */
+@import url(./fonts.css);
+
+/* Start Navigation */
+.header_area.main-menu.navbar{
+    padding: 1rem 20rem;
+}
+.header_area.main-menu.nav-item.nav-link{
+    font-family: "Roboto", cursive;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding: 1.7rem;
+    color: black;
+}
+
+
+
+/* End Navigation */
