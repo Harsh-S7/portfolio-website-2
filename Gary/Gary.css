@@ -1,0 +1,55 @@
+/*Fonts, sizes and colors not added (google font?)*/
+/*No padding anywhere lol*/
+/*Lines are prob created through animatbles*/
+/*idk how to make that scrolling effect*/
+
+/*Parallax Effect*/
+.parallaxTop {
+  /* The image used */
+  background-image: url("Gary.jpg");
+
+  /* Set a specific height */
+  height: 400px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.topText{
+  text-align:center;
+  padding-top: 100px;
+}
+
+.garyShengText{
+  text-align:center;
+  padding-top: 50px;
+}
+
+.header{
+  text-align:center;
+  padding-top: 5px;
+  font-size: 30px;
+}
+
+.headerWhite{
+  text-align:center;
+  padding-top: 50px;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+.blueGradient{
+  background-image: url("Gary.jpg");
+
+  /* Set a specific height */
+  height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
