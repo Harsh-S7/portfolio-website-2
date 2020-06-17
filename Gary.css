@@ -1,0 +1,93 @@
+/*Fonts, sizes and colors not added (google font?)*/
+/*No padding anywhere lol*/
+/*Lines are prob created through animatbles*/
+/*idk how to make that scrolling effect*/
+
+
+/*Import fonts from fonts.css files */
+@import url(./fonts.css);
+
+/*Parallax Effect*/
+.parallaxTop {
+  /* The image used */
+  background-image: url("Man.jpg");
+
+  /* Set a specific height */
+  height: 400px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.topText{
+  text-align:center;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 100px;
+  color: white;
+}
+
+.garyShengText{
+  text-align:center;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  font-weight: 900;
+  color: white;
+}
+
+.header{
+  text-align:center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 25px;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  color: black;
+}
+
+.jumbotron{
+  padding: 0%;
+}
+
+.headerWhite{
+  text-align:center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 25px;
+  color: #FFFFFF;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  font-weight: 500;
+
+}
+
+.blueGradient{
+  background-image: url("blue-gradient-background-flip.jpg");
+
+  /* Set a specific height */
+  height: 300px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  font-weight: 500;
+  color: white;
+
+}
+
+.sysLinks{
+  text-align:center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  color: #FFFFFF;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  font-weight: 500;
+}
