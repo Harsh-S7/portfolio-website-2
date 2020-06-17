@@ -3,6 +3,10 @@
 /*Lines are prob created through animatbles*/
 /*idk how to make that scrolling effect*/
 
+
+/*Import fonts from fonts.css files */
+@import url(./fonts.css);
+
 /*Parallax Effect*/
 .parallaxTop {
   /* The image used */
@@ -21,17 +25,32 @@
 .topText{
   text-align:center;
   padding-top: 100px;
+  font-family: "Roboto", cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
 }
 
 .garyShengText{
   text-align:center;
   padding-top: 50px;
+  font-family: "Roboto", cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
 }
 
 .header{
   text-align:center;
   padding-top: 5px;
   font-size: 30px;
+  font-family: "Roboto", cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
 }
 
 .headerWhite{
@@ -39,6 +58,18 @@
   padding-top: 50px;
   font-size: 30px;
   color: #FFFFFF;
+  font-family: "Roboto", cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
+}
+.col-5{
+  font-family: "Roboto", cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
 }
 
 .blueGradient{
@@ -51,5 +82,10 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: "Roboto", cursive;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 1.7rem;
+  color: black;
 
 }
