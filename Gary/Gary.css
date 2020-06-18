@@ -90,13 +90,13 @@
 
 }
 .jobposition{
-  color: green;
+  color: olivedrab;
 }
 
 .location{
-  color: rgb(41, 35, 35);
+  color: dimgray;
 }
 
 .jobtext{
-  color:lightslategray;
+  color:darkgray;
 }
