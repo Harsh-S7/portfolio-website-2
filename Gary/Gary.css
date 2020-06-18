@@ -89,3 +89,14 @@
   color: black;
 
 }
+.jobposition{
+  color: green;
+}
+
+.location{
+  color: rgb(41, 35, 35);
+}
+
+.jobtext{
+  color:lightslategray;
+}
