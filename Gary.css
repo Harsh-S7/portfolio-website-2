@@ -91,3 +91,15 @@
   text-transform: uppercase;
   font-weight: 500;
 }
+
+.jobposition{
+  color: olivedrab;
+}
+
+.location{
+  color: dimgray;
+}
+
+.jobtext{
+  color:darkgray;
+}
